@@ -40,7 +40,7 @@
       src="https://grs-faelayis.vercel.app/api/top-langs/?username=faelayis&theme=light&layout=compact&langs_count=10&count_private=true&hide=javascript.python.html.css.procfile.powershell.batchfile.shell.php.ruby.handlebars.scss.makefile.mcfunction" />
 </picture>
 
-<!-- <a align="center" href="https://wakatime.com/@Faelayis">
+<a align="center" href="https://wakatime.com/@Faelayis">
   <img src="https://grs-faelayis.vercel.app/api/wakatime?username=faelayis&theme=dark&layout=compact&range=all_time&hide_border=true&bg_color=0d1117"/> -->
 
 ### The best way to contact me <a href="#"><img width="12px" src="./resources/profile/969498343208267837.gif" /></a>
@@ -79,15 +79,11 @@
 [![](https://img.shields.io/badge/PowerToys-666666)](https://github.com/microsoft/PowerToys)
 <a href="#"><img width="31px" src="./resources/profile/NezukoRunning.gif"/></a>
 
-<!--
+
 ### Recent Activities
--->
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
-<details>
-   <summary>
     More
-   </summary>
 
 ### What i join
 
