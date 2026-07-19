@@ -7,18 +7,18 @@
       width="450"
       height="177.27"
       media="(prefers-color-scheme: dark)"
-      srcset="https://grs-faelayis.vercel.app/api?username=faelayis&theme=dark&hide_title=false&show_icons=true&hide_border=true&bg_color=0d1117&custom_title=GitHub%20Stats&icon_color=fe926b&include_all_commits=true&count_private=true&rank_icon=percentile" />
+      srcset="https://grs-Faelayos.vercel.app/api?username=Faelayos&theme=dark&hide_title=false&show_icons=true&hide_border=true&bg_color=0d1117&custom_title=GitHub%20Stats&icon_color=fe926b&include_all_commits=true&count_private=true&rank_icon=percentile" />
    <source
       align="center"
       width="450"
       height="177.27"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://grs-faelayis.vercel.app/api?username=faelayis&theme=light&hide_title=false&show_icons=true&custom_title=GitHub%20Stats&icon_color=fe926b&include_all_commits=true&count_private=true&rank_icon=percentile" />
+      srcset="https://grs-Faelayos.vercel.app/api?username=Faelayos&theme=light&hide_title=false&show_icons=true&custom_title=GitHub%20Stats&icon_color=fe926b&include_all_commits=true&count_private=true&rank_icon=percentile" />
    <img
       align="center"
       width="450"
       height="177.27"
-      src="https://grs-faelayis.vercel.app/api?username=faelayis&theme=light&hide_title=false&show_icons=true&custom_title=GitHub%20Stats&icon_color=fe926b&include_all_commits=true&count_private=true&rank_icon=percentile" />
+      src="https://grs-Faelayos.vercel.app/api?username=Faelayos&theme=light&hide_title=false&show_icons=true&custom_title=GitHub%20Stats&icon_color=fe926b&include_all_commits=true&count_private=true&rank_icon=percentile" />
 </picture>
 <picture>
    <source
@@ -26,36 +26,36 @@
       width="313"
       height="177.27"
       media="(prefers-color-scheme: dark)"
-      srcset="https://grs-faelayis.vercel.app/api/top-langs/?username=faelayis&hide_border=true&bg_color=0d1117&theme=dark&layout=compact&langs_count=10&count_private=true&hide=javascript.python.html.css.procfile.powershell.batchfile.shell.php.ruby.handlebars.scss.makefile.mcfunction" />
+      srcset="https://grs-Faelayos.vercel.app/api/top-langs/?username=Faelayos&hide_border=true&bg_color=0d1117&theme=dark&layout=compact&langs_count=10&count_private=true&hide=javascript.python.html.css.procfile.powershell.batchfile.shell.php.ruby.handlebars.scss.makefile.mcfunction" />
    <source
       align="center"
       width="313"
       height="177.27"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://grs-faelayis.vercel.app/api/top-langs/?username=faelayis&theme=light&layout=compact&langs_count=10&count_private=true&hide=javascript.python.html.css.procfile.powershell.batchfile.shell.php.ruby.handlebars.scss.makefile.mcfunction" />
+      srcset="https://grs-Faelayos.vercel.app/api/top-langs/?username=Faelayos&theme=light&layout=compact&langs_count=10&count_private=true&hide=javascript.python.html.css.procfile.powershell.batchfile.shell.php.ruby.handlebars.scss.makefile.mcfunction" />
    <img
       align="center"
       width="313"
       height="177.27"
-      src="https://grs-faelayis.vercel.app/api/top-langs/?username=faelayis&theme=light&layout=compact&langs_count=10&count_private=true&hide=javascript.python.html.css.procfile.powershell.batchfile.shell.php.ruby.handlebars.scss.makefile.mcfunction" />
+      src="https://grs-Faelayos.vercel.app/api/top-langs/?username=Faelayos&theme=light&layout=compact&langs_count=10&count_private=true&hide=javascript.python.html.css.procfile.powershell.batchfile.shell.php.ruby.handlebars.scss.makefile.mcfunction" />
 </picture>
 
-<a align="center" href="https://wakatime.com/@Faelayis">
-  <img src="https://grs-faelayis.vercel.app/api/wakatime?username=faelayis&theme=dark&layout=compact&range=all_time&hide_border=true&bg_color=0d1117"/> -->
+<a align="center" href="https://wakatime.com/@Faelayos">
+  <img src="https://grs-Faelayos.vercel.app/api/wakatime?username=Faelayos&theme=dark&layout=compact&range=all_time&hide_border=true&bg_color=0d1117"/> -->
 
 ### The best way to contact me <a href="#"><img width="12px" src="./resources/profile/969498343208267837.gif" /></a>
 
-[![](https://img.shields.io/badge/Telegram-FFFFFF?logo=telegram&logoColor=Blue)](https://t.me/Faelayis)
+[![](https://img.shields.io/badge/Telegram-FFFFFF?logo=telegram&logoColor=Blue)](https://t.me/Faelayos)
 [![](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white)](https://discord.com/users/328731868096888833)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/Faelayis)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/Faelayos)
 
 ### What i use <a href="#"><img width="10px" src="./resources/profile/816883329583808612.gif" /><a>
-<!-- [![](https://img.shields.io/badge/endpoint?logoColor=white&url=https://raw.githubusercontent.com/Faelayis/Faelayis/metadata/NPM.json)](https://www.npmjs.com/package/npm) -->
-<!-- [![](https://img.shields.io/badge/endpoint?logoColor=white&url=https://raw.githubusercontent.com/Faelayis/Faelayis/metadata/Yarn.json)](https://www.yarnpkg.com) -->
+<!-- [![](https://img.shields.io/badge/endpoint?logoColor=white&url=https://raw.githubusercontent.com/Faelayos/Faelayos/metadata/NPM.json)](https://www.npmjs.com/package/npm) -->
+<!-- [![](https://img.shields.io/badge/endpoint?logoColor=white&url=https://raw.githubusercontent.com/Faelayos/Faelayos/metadata/Yarn.json)](https://www.yarnpkg.com) -->
 <!-- [![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black)](https://www.javascript.com) -->
 
-[![Node.js](https://img.shields.io/endpoint?logoColor=white&url=https://raw.githubusercontent.com/Faelayis/Faelayis/metadata/Node.json)](https://nodejs.org/en)
-[![PNPM](https://img.shields.io/endpoint?logoColor=white&url=https://raw.githubusercontent.com/Faelayis/Faelayis/metadata/PNPM.json)](https://pnpm.io)
+[![Node.js](https://img.shields.io/endpoint?logoColor=white&url=https://raw.githubusercontent.com/Faelayos/Faelayos/metadata/Node.json)](https://nodejs.org/en)
+[![PNPM](https://img.shields.io/endpoint?logoColor=white&url=https://raw.githubusercontent.com/Faelayos/Faelayos/metadata/PNPM.json)](https://pnpm.io)
 [![](https://img.shields.io/badge/Rust-black?logo=Rust&logoColor=white)](https://www.rust-lang.org)
 [![](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
 [![](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
@@ -88,13 +88,13 @@
 ### What i join
 
 [![](https://img.shields.io/badge/Windows%20insider-0078D6?logo=windows&logoColor=white)](https://insider.windows.com/)
-[![](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)](https://gitlab.com/Faelayis)
-[![](https://img.shields.io/badge/Crowdin-2E3340?logo=Crowdin&logoColor=white)](https://crowdin.com/profile/Faelayis)
+[![](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)](https://gitlab.com/Faelayos)
+[![](https://img.shields.io/badge/Crowdin-2E3340?logo=Crowdin&logoColor=white)](https://crowdin.com/profile/Faelayos)
 
-<a href="https://github.com/Faelayis#gh-light-mode-only">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Faelayis&theme=light" /></a>
-<a href="https://github.com/Faelayis#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Faelayis&theme=dark&hide_border=true&background=0D1117" /></a>
+<a href="https://github.com/Faelayos#gh-light-mode-only">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Faelayos&theme=light" /></a>
+<a href="https://github.com/Faelayos#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Faelayos&theme=dark&hide_border=true&background=0D1117" /></a>
 
 ### Music
 
